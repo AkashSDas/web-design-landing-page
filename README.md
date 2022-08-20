@@ -1,6 +1,6 @@
 # web-design-landing-page
 
-[🌐 Live Preview](https://street-style-landing-page-neon.vercel.app/)
+[🌐 Live Preview](https://web-design-landing-page-dun.vercel.app/)
 
 - ✅ CSS - complete layout, position
 - ✅ Responsiveness (for all devices)
